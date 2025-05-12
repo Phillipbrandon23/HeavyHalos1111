@@ -1,0 +1,76 @@
+""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Heavy Halos | Burdened but Still Blessed</title>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<div class="navbar">
+    <a href="#hero">Home</a>
+    <a href="#collections">Collections</a>
+    <a href="mind-and-soul.html">Mind & Soul</a>
+    <a href="#contact">Contact</a>
+</div>
+
+<!-- Hero Banner -->
+<div id="hero" class="hero-banner">
+    <div class="overlay">
+        <h1 class="brand-title">Heavy Halos</h1>
+        <p class="tagline">Burdened but Still Blessed</p>
+        <button class="shop-now">Shop Now</button>
+    </div>
+</div>
+
+<!-- Featured Collections Section -->
+<section class="featured-collections" id="collections">
+    <h2>Featured Collections</h2>
+    <div class="collections-container">
+        <div class="collection-item">
+            <img src="assets/heavy-halos.png" alt="Heavy Halos" style="object-fit: contain; height: 300px; width: 100%; margin-top: 10px;">
+            <h3>Heavy Halos</h3>
+            <p>Signature pieces symbolizing strength and resilience.</p>
+            <button class="shop-now">Shop Now</button>
+        </div>
+        <div class="collection-item">
+            <img src="assets/still-rise.png" alt="Still Rise" style="object-fit: contain; height: 300px; width: 100%; margin-top: 10px;">
+            <h3>Still Rise</h3>
+            <p>Inspired by pushing through adversity with style.</p>
+            <button class="shop-now">Shop Now</button>
+        </div>
+        <div class="collection-item">
+            <img src="assets/burdened-but-blessed.png" alt="Burdened But Blessed" style="object-fit: contain; height: 300px; width: 100%; margin-top: 10px;">
+            <h3>Burdened But Blessed</h3>
+            <p>Celebrating the strength found in struggle.</p>
+            <button class="shop-now">Shop Now</button>
+        </div>
+    </div>
+</section>
+
+<!-- Mind & Soul Section -->
+<section id="mind-and-soul" class="mind-and-soul" style="padding: 10px; margin-top: 20px; text-align: center;">
+    <div class="mind-soul-content" style="max-width: 1000px; margin: 0 auto;">
+        <img src="assets/mind-soul-banner.png" alt="Mind and Soul Banner" style="width:100%; height:150px; object-fit: cover; border-radius: 8px;">
+        <h2 style="margin-top: 10px;">Your Mind Matters. Your Soul is Powerful.</h2>
+        <a href="mind-and-soul.html" class="mind-soul-link" style="display: inline-block; margin-top: 5px; text-decoration: none; color: #007bff;">Learn More</a>
+    </div>
+</section>
+
+<!-- Footer Section -->
+<footer class="footer" id="contact">
+    <div class="footer-logo">
+        <img src="assets/footer-logo.png" alt="Heavy Halos Logo">
+    </div>
+    <p>© 2025 Heavy Halos. All rights reserved.</p>
+    <div class="social-icons">
+        <a href="https://instagram.com/heavyhalos" target="_blank">Instagram</a> |
+        <a href="https://facebook.com/heavyhalos" target="_blank">Facebook</a> |
+        <a href="https://twitter.com/heavyhalos" target="_blank">Twitter</a>
+    </div>
+</footer>
+
+</body>
+</html>""
